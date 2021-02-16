@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">BubbleChatKotlin</string>
+    <string name="view_title">Exemplo de título</string>
+    <string name="view_description">Exemplo de descrição</string>
+    <string name="button1">Botão 1</string>
+    <string name="button2">Botão 2</string>
+    <string name="start">Start</string>
+</resources>
